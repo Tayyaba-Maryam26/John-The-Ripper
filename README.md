@@ -52,7 +52,7 @@ For this type of offline password attack, the tester needs the relevant hash dat
 
 ### 📸 Poster 1 — Introduction to John the Ripper
 
-![John the Ripper Introduction](posters/introduction.png)
+![John the Ripper Introduction](introduction.png)
 
 
 
@@ -95,7 +95,7 @@ John tests the candidates and may find a match. If the password is not present i
 
 ### 📸 Poster 2 — Why We Use It and How It Works
 
-![Why John the Ripper Is Used](posters/why-and-how.png)
+![Why John the Ripper Is Used](why-and-how.png)
 
 ---
 
@@ -156,7 +156,7 @@ The exact behavior depends on the John version, build, configuration, and hash f
 
 ### 📸 Poster 3 — Different Formats and Modes
 
-![John the Ripper Modes](posters/modes.png)
+![John the Ripper Modes](modes.png)
 
 ---
 
@@ -251,7 +251,7 @@ Some builds support additional format-listing options.
 
 ### 📸 Poster 4 — John the Ripper Commands on Kali Linux
 
-![John the Ripper Kali Linux Commands](posters/kali-commands.png)
+![John the Ripper Kali Linux Commands](kali-commands.png)
 
 ---
 
@@ -306,7 +306,7 @@ Security updates help address known vulnerabilities. Secure configuration and pr
 
 ### 📸 Poster 5 — How Systems Protect Passwords
 
-![How Systems Protect Passwords](posters/security-defenses.png)
+![How Systems Protect Passwords](security-defenses.png)
 
 ---
 
@@ -329,7 +329,7 @@ Cybersecurity is not just about running commands. It is about understanding what
 
 ### 📸 Poster 6 — John the Ripper: Key Takeaways
 
-![John the Ripper Key Takeaways](posters/key-takeaways.png)
+![John the Ripper Key Takeaways](key-takeaways.png)
 
 ---
 
