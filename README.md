@@ -54,7 +54,7 @@ For this type of offline password attack, the tester needs the relevant hash dat
 
 ![John the Ripper Introduction](posters/introduction.png)
 
----
+
 
 # 2. Why Do We Use It and How Does It Work?
 
